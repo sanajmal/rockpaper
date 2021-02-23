@@ -8,6 +8,7 @@ user2 = ""
 count = 0
 name1 = input("enter your name")
 name2 = input("enter your name")
+print("User Registered : ")
 user1 = {'name1': name1, 'score': 0}
 user2 = {'name2': name2, 'score': 0}
 print(user1)
